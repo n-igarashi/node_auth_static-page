@@ -34,6 +34,3 @@ const admins = {
 ``` javascript:server.js
 app.use(express.static('dir_name'));
 ```
-
-
-## USAGE
